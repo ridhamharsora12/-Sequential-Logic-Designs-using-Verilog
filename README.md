@@ -1,1 +1,1 @@
-# -Sequential-Logic-Designs-using-Verilog
+# Sequential-Logic-Designs-using-Verilog
